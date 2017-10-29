@@ -1,0 +1,18 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/chrome-set-exit-type.json
+
+dist
+node_modules
+.DS_Store
+.tmp
+.sass-cache
+*.sublime-*
+.jekyll-metadata
+.idea
+npm-debug.log
+templates.js
